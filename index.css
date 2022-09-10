@@ -1,0 +1,28 @@
+h1,h2
+{
+  text-align: center;
+  margin: auto;
+}
+button{
+  margin : 8px 44.7%;
+  background-color: black;
+  color: white;
+  border-radius: 3px;
+  padding: 6px 6px;
+  font-weight: bold;
+}
+button:hover{
+  background-color: rgb(10, 189, 10);
+  color: white;
+  cursor: pointer;
+}
+#save-el{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+  font-size: 20px;
+  margin-left: 600px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  /* background-color: aqua; */
+}
